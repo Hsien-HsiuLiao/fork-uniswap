@@ -3,7 +3,10 @@
 
 # dependencies for each truffle project
 /core/node_modules
-
+/periphery/node_modules
 
 #production
 /build
+
+
+.DS_Store
