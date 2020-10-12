@@ -1,0 +1,9 @@
+/uniswap-v2-core
+/uniswap-v2-periphery
+
+# dependencies for each truffle project
+/core/node_modules
+
+
+#production
+/build
