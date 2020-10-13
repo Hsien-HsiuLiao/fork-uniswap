@@ -4,6 +4,7 @@
 # dependencies for each truffle project
 /core/node_modules
 /periphery/node_modules
+/migrator/node_modules
 
 #production
 /build
